@@ -11,5 +11,5 @@ Caching is not automatic like one must handle invalidations and consistency of i
 
 ### References
 1. [AWS Database caching strategies ]( https://docs.aws.amazon.com/whitepapers/latest/database-caching-strategies-using-redis/welcome.html ).
-2. [GeeksforGeeks, “Design Distributed Cache | System Design,”] ( https://www.geeksforgeeks.org/design-distributed-cache-system-design/ ).
-3. [GeeksforGeeks, “Caching Strategies for API"] ( https://www.geeksforgeeks.org/system-design/caching-strategies-for-api/ ).
+2. [GeeksforGeeks, “Design Distributed Cache | System Design,”](https://www.geeksforgeeks.org/design-distributed-cache-system-design/ ).
+3. [GeeksforGeeks, “Caching Strategies for API"]( https://www.geeksforgeeks.org/system-design/caching-strategies-for-api/ ).
